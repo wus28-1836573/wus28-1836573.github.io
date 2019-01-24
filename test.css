@@ -1,7 +1,6 @@
 #Header{
 	width: 500px;
-	margin-left: auto;
-	margin-right： auto;
+	margin-left: 700px;
 	margin-bottom: 10px;
 	border: solid 8px black;
 	text-align: center;
@@ -10,7 +9,7 @@
 #LeftNav {
 	width: 400px;
 	margin-left: auto;
-	margin-right： auto;
+	margin-right：auto;
 	margin-bottom: 10px;
 	border: solid 8px black;
 	float: left;
@@ -20,17 +19,15 @@
 
 #Content{
 	width: 700px;
-	margin-left: auto;
-	margin-right： auto;
+	margin-left: 600px;
 	margin-bottom: 10px;
 	border: solid 8px black;
 	text-align: center;
-	padding: 15px;
 }
 
 #Footer{
 	margin-left: auto;
-	margin-right： auto;
+	margin-right：auto;
 	margin-bottom: 10px;
 	border: solid 8px black;
 	text-align: center;
